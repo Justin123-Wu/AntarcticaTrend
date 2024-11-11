@@ -1,0 +1,19 @@
+1. The data can be downloaded from:
+https://www.ncei.noaa.gov/data/integrated-global-radiosonde-archive/access/data-por/
+
+2. Once downloaded, you need to put them in this folder
+   AntarcticaTrend/data/raw/
+                          AYM00089009-data.tx
+                          AYM00089062-data.txt
+                          AYM00089002-data.txt
+                          AYM00089532-data.txt
+                          AYM00089664-data.txt
+                          AYM00089571-data.txt
+                          AYM00089611-data.txt
+
+
+
+
+
+
+
